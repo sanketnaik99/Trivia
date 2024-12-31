@@ -8,6 +8,7 @@ import { Navbar } from "./components/Navbar";
 
 const poppins = Poppins({
   weight: "400",
+  subsets: ["latin"],
 });
 
 // export const metadata: Metadata = {
